@@ -2,4 +2,4 @@
 1
 2
 3
-p skellamreg Skellam regression estimator Use skellamreg With STATA 19
+p pcmdif Diagnosing and considering Differential Item Functioning when analysing Patient Reported Outcomes using Partial Credit Models Use pcmdif With STATA 19
